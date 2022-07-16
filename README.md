@@ -36,9 +36,9 @@
 ### :man_technologist: About Me :
 I am a Linux/AIX System Administrator expanding into Full Stack Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from USA.
 
-- :telescope: I’m currently working as a Unix Administrator and honing in on my skills for frontend and backend for building web applications.
+- :telescope: I’m currently working as a Unix Administrator while honing in on my applications development skills.
 
-- :seedling: Exploring Block Chain and Web3.
+- :seedling: Exploring Blockchain and Web3.
 
 - :zap: In my free time, I take on line programing and developement classes and read tech articles.
 
