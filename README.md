@@ -42,7 +42,7 @@ I am David, a Linux/AIX System Administrator expanding into Full Stack Developme
 
 - :zap: I keep physically active by practicing yoga, tai chi, and walk 5+ miles each day.
 
-- :mailbox:How to reach me: [on linkedIn](www.linkedin.com/in/david-macisso-2135787)
+- :mailbox:How to reach me: [on linkedIn](https://www.linkedin.com/in/david-macisso-2135787)
     
 - ---
 
