@@ -34,7 +34,7 @@
 </div>
 
 ### :man_technologist: About Me :
-I am David a Linux/AIX System Administrator expanding into Full Stack Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from USA.
+I am David, a Linux/AIX System Administrator expanding into Full Stack Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from USA.
 
 - :telescope: I’m currently working as a Unix Administrator while honing in on my applications development skills.
 
