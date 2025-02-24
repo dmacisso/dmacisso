@@ -36,9 +36,9 @@
 ### :man_technologist: About Me :
 I am David, a Linux/AIX System Administrator expanding into Full Stack Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from USA.
 
-- :telescope: I’m currently working as a Unix Administrator while honing in on my applications development skills.
+- :telescope: I’m currently working as a Unix Administrator while honing in on software development skills.
 
-- :seedling: I consistently deepen my software development skills by reading tech articles and particpate in various tutorials.
+- :seedling: I am consistently expanding on these skills by reading tech articles and particpate in various tutorials.
 
 - :zap: I keep physically active by practicing yoga, tai chi, and walk 5+ miles each day.
 
