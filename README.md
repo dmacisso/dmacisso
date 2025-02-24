@@ -42,7 +42,7 @@ I am a Linux/AIX System Administrator expanding into Full Stack Development <img
 
 - :zap: In my free time, I take on line programing and developement classes and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-davidm-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/david-macisso-2135787)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-davidm-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/david-macisso-2135787/)
 - ---
 
 ### :hammer_and_wrench: Languages and Tools :
