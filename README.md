@@ -38,9 +38,9 @@ I am David, a Linux/AIX System Administrator expanding into Full Stack Developme
 
 - :telescope: I’m currently working as a Unix Administrator while honing in on software development skills.
 
-- :seedling: I am consistently expanding on these skills by reading tech articles and particpate in various tutorials.
+- :seedling: I am consistently expanding on these skills by reading tech articles and particpating in various tutorials.
 
-- :zap: I keep physically active by practicing yoga, tai chi, and walk 5+ miles each day.
+- :zap: I keep physically active by practicing yoga, tai chi, and walking 5+ miles each day. I also like cooking, and fishing.
 
 - :mailbox:How to reach me: [on linkedIn](https://www.linkedin.com/in/david-macisso-2135787)
 
