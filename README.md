@@ -38,9 +38,9 @@ I am DVMacisso a Linux/AIX System Administrator expanding into Full Stack Develo
 
 - :telescope: I’m currently working as a Unix Administrator while honing in on my applications development skills.
 
-- :seedling: Exploring Blockchain and Web3.
+- :seedling: I consistently deepen my software development skills by reading tech articles and particpate in various tutorials.
 
-- :zap: In my free time, I take on line programing and developement classes and read tech articles.
+- :zap: I keep physically active by practicing yoga, tai chi, and walk 5+ miles each day.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-davidm-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/david-macisso-2135787)
 - ---
